@@ -1,5 +1,4 @@
-1. Kullanıcı dostu arayüz
+1. Hızlı performans
 2. Yüksek güvenlik
 3. Bulut desteği
 4. Otomatik yedekleme desteği
-
