@@ -1,0 +1,4 @@
+1. Kullanıcı dostu arayüz
+2. Yüksek güvenlik
+3. Hızlı performans
+4. Bulut desteği
