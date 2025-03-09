@@ -2,3 +2,5 @@
 2. Yüksek güvenlik
 3. Hızlı performans
 4. Bulut desteği
+5. Otomatik yedekleme desteği
+
